@@ -1,4 +1,10 @@
-<p align="center"><img src="https://raw.githubusercontent.com/synthcity/.github/main/assets/synth-city-animated-logo.svg" width="357" alt="SynthCity" /></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/synthcity/.github/main/assets/synth-city-animated-logo.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/synthcity/.github/main/assets/synth-city-animated-logo-light.svg" />
+    <img src="https://raw.githubusercontent.com/synthcity/.github/main/assets/synth-city-animated-logo-light.svg" width="357" alt="SynthCity" />
+  </picture>
+</p>
 
 Music software, down to the circuit.
 
